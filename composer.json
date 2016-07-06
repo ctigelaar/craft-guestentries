@@ -1,0 +1,8 @@
+{
+    "name": "ctigelaar/craft-guestentries",
+    "description": "Guest Entries Plugin for Craft CMS",
+    "type": "craft-plugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
